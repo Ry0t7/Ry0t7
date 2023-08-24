@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BT-programming
+- 👀 I’m interested in ...
+JavaScript,Ruby,Python
+- 🌱 I’m currently learning ...
+Ruby
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+Gmail:webkakrt7@gmail.com
+
+<!---
+BT-programming/BT-programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
