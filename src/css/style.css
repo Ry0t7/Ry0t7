@@ -461,6 +461,7 @@ a {
   border: 2px solid #4d2000;
   overflow: hidden;
   cursor: pointer;
+  touch-action: auto;
 }
 .achievements .achievements-container .achievements-inner .achievements-grid:hover {
   opacity: 0.6;
