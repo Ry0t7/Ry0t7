@@ -523,6 +523,11 @@ a {
   height: auto;
   overflow: hidden;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  touch-action: auto !important;
+  pointer-events: auto !important;
 }
 .achievements .achievements-container .swiper-sp .swiper-wrapper .swiper-slide .achievements-grid:hover {
   opacity: 0.6;
