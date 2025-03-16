@@ -1,16 +1,21 @@
 👋 Hi, I’m Ryota
 Thank you for visiting my github.
 
-👀 I’m interested in ...
+👀 興味のある言語 ...
 - Python
 - AWS
 - HTML
 - CSS
 - JavaScript
 
-🌱 I’m currently learning ...
-- python
+🌱 学習中 ...
+- Python
 - AWS
+
+💳 所持資格 ...
+- 第一種普通自動車運転免許証 2019年 8月
+- 情報処理技術者試験 3級 2019年 2月
+- python3エンジニア認定基礎試験 2025年 2月
 
 📫 How to reach me ...
 Gmail:webkakrt7@gmail.com
